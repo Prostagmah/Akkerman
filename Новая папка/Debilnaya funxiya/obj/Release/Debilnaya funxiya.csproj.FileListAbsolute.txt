@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Debilnaya funxiya\Debilnaya funxiya\bin\Release\Debilnaya funxiya.exe.config
+C:\Users\User\source\repos\Debilnaya funxiya\Debilnaya funxiya\bin\Release\Debilnaya funxiya.exe
+C:\Users\User\source\repos\Debilnaya funxiya\Debilnaya funxiya\bin\Release\Debilnaya funxiya.pdb
+C:\Users\User\source\repos\Debilnaya funxiya\Debilnaya funxiya\obj\Release\Debilnaya funxiya.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Debilnaya funxiya\Debilnaya funxiya\obj\Release\Debilnaya funxiya.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Debilnaya funxiya\Debilnaya funxiya\obj\Release\Debilnaya funxiya.exe
+C:\Users\User\source\repos\Debilnaya funxiya\Debilnaya funxiya\obj\Release\Debilnaya funxiya.pdb
